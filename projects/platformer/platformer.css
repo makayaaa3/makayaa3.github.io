@@ -3,7 +3,8 @@ body {
 }
 
 canvas {
-  background-color: lightgray;
+  background-image:url("https://images.rawpixel.com/image_400/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjEwMTYtYy0wMi1rc2g2cWt1Zy5qcGc.jpg");
+background-size:100%;
 }
 
 img {
